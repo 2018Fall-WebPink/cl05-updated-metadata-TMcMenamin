@@ -1,0 +1,33 @@
+/*
+* Tess McMenamin
+* October 26th  
+* My Favorite Things 03  
+*/
+
+/* The universal selector */ 
+
+*{
+
+}
+h1 { font-size: 50pt; /* Biggest One*/} 
+h1 { font-family: cursive /*Gives a better look*/ }
+h1 {text-align: center}
+h1 {text-decoration: underline}
+
+
+/* Body attributes here */ 
+
+body {
+   font-family: "Courier New", Courier, monospace;  
+}
+body {background-color:azure;}
+
+h1 { background-color: cadetblue}
+
+p{ background-color: white} 
+p{color:#9999ff} 
+
+#husky {width:175px; height:250px;
+float: left;} 
+#lab  {width:320px; height:220px;
+float: left} 
